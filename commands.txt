@@ -18,5 +18,9 @@ git commit -m "push log.txt"
 git push origin logging
 git checkout master
 git merge logging
+git push origin master
 git checkout -b allcommands
 nano commands.txt
+git add commands.txt
+git commit -m "push commands.txt"
+git push origin allcommands
