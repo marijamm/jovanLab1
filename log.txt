@@ -1,0 +1,13 @@
+Author: mitrovski.jovan.2013@students.finki.ukim.mk 
+<mitrovski.jovan.2013@students.finki.ukim.mk>
+Date:   Wed Apr 4 19:17:31 2018 +0200
+
+    Initial commit
+
+commit 060c435282c59ef8b46a41d1ebf1361d3e349bfb
+Author: marijamm <37660635+marijamm@users.noreply.github.com>
+Date:   Wed Apr 4 19:12:39 2018 +0200
+
+    Initial commit
+
+
